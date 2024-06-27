@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Dennis and I'm a fullstack developer, from fortal City</h2>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dennissant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dennissant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -41,9 +40,5 @@
 </div>
 
 ###
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dennissant)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
-  <img height="250" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif"  />
-</div>
-
-###
