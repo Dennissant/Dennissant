@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Dennis%20Araujo&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
 <h2 align="left">Hi 👋! My name is Dennis and I'm a fullstack developer, from fortal City</h2>
 
 ###
